@@ -1,0 +1,6 @@
+{
+  "name": "RFID Based Smart Attendance System using ESP32",
+  "description": "Professional RFID attendance dashboard for college B.Tech project demonstration with real-time card scanning simulation, statistics, and student attendance tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
